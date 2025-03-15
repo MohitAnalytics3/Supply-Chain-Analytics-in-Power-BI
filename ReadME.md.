@@ -4,19 +4,13 @@ This repository contains my project work from the "Case Study: Supply Chain Anal
 Introduction
 
 The project aims to leverage Power BI for effective supply chain decision-making. It involves analyzing supplier quotes, assessing internal manufacturing costs, and performing scenario analysis to recommend optimal strategies.
-Installation
-
-To view and interact with the Power BI files, ensure you have Power BI Desktop installed on your computer. You can download it from the official Microsoft website.
 Usage
 
-    Open Power BI Files: Download the .pbix files from this repository and open them using Power BI Desktop.
-    Explore Dashboards: Navigate through the dashboards to explore supplier costs, manufacturing assessments, and scenario analyses.
-    Adjust Parameters: Use the scenario analysis tool to adjust production volumes and observe cost impacts.
+    Explore Screenshots: Review the screenshots in the /images directory to see the dashboards and visualizations created in Power BI.
+    Understand Insights: Use the visualizations to understand key insights and findings from the analysis.
 
-    Project Structure
+Project Structure
 
-    /datasets: Contains the datasets used for analysis.
-    /powerbi_files: Includes the Power BI project files (.pbix) for the analysis.
     /images: Contains screenshots of the dashboards and visualizations.
     README.md: Documentation file providing an overview and details of the project.
 
@@ -28,8 +22,8 @@ Key Insights
 
 Technologies Used
 
-    Power BI: For data modeling and visualization.
-    DAX: For performing cost calculations and analysis.
+    Power BI: Utilized for creating data visualizations and dashboards.
+    DAX: Employed for performing calculations and analysis within Power BI.
 
 Contributing
 
