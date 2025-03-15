@@ -1,0 +1,36 @@
+Supply Chain Analytics in Power BI
+
+This repository contains my project work from the "Case Study: Supply Chain Analytics in Power BI" course on DataCamp. The project focuses on analyzing supply chain data to make informed decisions regarding the make or buy options.
+Introduction
+
+The project aims to leverage Power BI for effective supply chain decision-making. It involves analyzing supplier quotes, assessing internal manufacturing costs, and performing scenario analysis to recommend optimal strategies.
+Installation
+
+To view and interact with the Power BI files, ensure you have Power BI Desktop installed on your computer. You can download it from the official Microsoft website.
+Usage
+
+    Open Power BI Files: Download the .pbix files from this repository and open them using Power BI Desktop.
+    Explore Dashboards: Navigate through the dashboards to explore supplier costs, manufacturing assessments, and scenario analyses.
+    Adjust Parameters: Use the scenario analysis tool to adjust production volumes and observe cost impacts.
+
+    Project Structure
+
+    /datasets: Contains the datasets used for analysis.
+    /powerbi_files: Includes the Power BI project files (.pbix) for the analysis.
+    /images: Contains screenshots of the dashboards and visualizations.
+    README.md: Documentation file providing an overview and details of the project.
+
+Key Insights
+
+    The Buy Option: Identified the most cost-effective suppliers by analyzing extended and full costs.
+    The Make Option: Evaluated internal manufacturing costs and capacity requirements, highlighting the cost of quality.
+    Scenario Analysis: Developed a tool to assess cost changes with varying production volumes, recommending optimal order volumes.
+
+Technologies Used
+
+    Power BI: For data modeling and visualization.
+    DAX: For performing cost calculations and analysis.
+
+Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
